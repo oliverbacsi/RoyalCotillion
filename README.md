@@ -5,7 +5,7 @@
 
 ![Screenshot](https://github.com/oliverbacsi/RoyalCotillion/blob/main/screenshot.png)
 
-#####RULES:
+### RULES:
 
 * The goal is to move all cards to the **Foundations** in the middle of the screen:
 	* One Foundation can accept cards from one color
@@ -31,7 +31,7 @@
 	* Cards removed from the two Piles are just decreasing the size of the Piles, even if this means running the Pile completely empty.
 
 
-#####CONTROLS:
+### CONTROLS:
 
 * **`CRSR`** keys and the **`HOME`** key navigate the highlighted area on the screen
 * **`SPACE`** invokes the object under the highlight:
@@ -43,10 +43,10 @@
 * **`H`** triggers the Help Mode on and off
 	* In the Help Mode all cards are highlighted which can be accepted by any of the 8 Foundations
 
-#####TODO:
+### TODO:
 
 * [ ] ...
 
-#####BUGS:
+### BUGS:
 
 * [ ] ...
